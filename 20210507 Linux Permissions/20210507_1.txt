@@ -1,0 +1,2 @@
+mkdir projects
+touch house{1..9}

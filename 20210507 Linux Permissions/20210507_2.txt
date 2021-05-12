@@ -1,0 +1,13 @@
+2.
+mkdir /home/aleksandar/Desktop/projects/houses
+mkdir /home/aleksandar/Desktop/projects/houses/doors
+touch /home/aleksandar/Desktop/projects/houses/bungalow.txt
+touch /home/aleksandar/Desktop/projects/houses/doors/bifold.txt
+mkdir /home/aleksandar/Desktop/projects/outdoors
+mkdir /home/aleksandar/Desktop/projects/outdoors/vegetation
+touch /home/aleksandar/Desktop/projects/outdoors/vegetation/landscape.txt
+
+3.
+cp house{1..5} houses
+4.
+rm house{6..8}
